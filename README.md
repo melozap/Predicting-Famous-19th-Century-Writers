@@ -8,5 +8,5 @@ https://www.kaggle.com/c/spooky-author-identification
 Find Glove Embeddings here:
 https://nlp.stanford.edu/projects/glove/
 
-To install requirements.txt
+To install requirements.txt ->
 pip install -r requirements.txt
